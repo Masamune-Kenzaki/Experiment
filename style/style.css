@@ -1,5 +1,5 @@
 p.Creator {
-    color: darkblue;
+    color: rgb(126, 126, 241);
     
 }
 
@@ -7,4 +7,22 @@ p.Creator {
     border: 1px solid #665544;
     background-color: #efefef;
     padding: 10px;
+}
+.Creator{
+    padding: 20px;
+    background-color: black;
+    
+}
+
+h1{
+    background-color: #17ddd3;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 10px 5px 5px black;
+}
+
+.Teacher{
+    background-color: blueviolet;
+    padding: 20px;
+    color: azure;
 }
